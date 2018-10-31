@@ -1,0 +1,59 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>17.0.1</Version>
+<Cluster>
+<Name>Cluster</Name>
+<NumElts>4</NumElts>
+<Array>
+<Name>Calibration Input</Name>
+<Dimsize>0</Dimsize>
+<Dimsize>0</Dimsize>
+<I32>
+<Name></Name>
+<Val></Val>
+</I32>
+</Array>
+<Cluster>
+<Name>CalibrationResults</Name>
+<NumElts>4</NumElts>
+<Array>
+<Name>Center in Pixels</Name>
+<Dimsize>2</Dimsize>
+<DBL>
+<Name>Real Matrix Element</Name>
+<Val>329.00111110018560</Val>
+</DBL>
+<DBL>
+<Name>Real Matrix Element</Name>
+<Val>231.50110618381331</Val>
+</DBL>
+</Array>
+<DBL>
+<Name>Angle</Name>
+<Val>-2.21729126631765E-3</Val>
+</DBL>
+<DBL>
+<Name>Pixels/MHz X</Name>
+<Val>22.55005543230437</Val>
+</DBL>
+<DBL>
+<Name>Pixels/MHz Y</Name>
+<Val>-22.55005543230437</Val>
+</DBL>
+</Cluster>
+<Array>
+<Name>Highlight</Name>
+<Dimsize>1</Dimsize>
+<I32>
+<Name>Numeric</Name>
+<Val>2147483647</Val>
+</I32>
+</Array>
+<Refnum>
+<Name>Running Script</Name>
+<RefKind>LV Object</RefKind>
+<RefType>VI</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+</Cluster>
+</LVData>
